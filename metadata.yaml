@@ -1,0 +1,58 @@
+_repo: Buttrick-s-voyages-1812-1819-Evans-s-Pedestrious-tour-1818_75189
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Buttrick, Tilly
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '57872'
+    url: http://www.gutenberg.org/2009/agents/57872
+  - agent_name: Evans, Estwick
+    aliases:
+    - Evans, E. (Estwick)
+    - Aristides
+    - Belarius of Cymbeline
+    - Evans, Estwicke
+    birthdate: 1787
+    deathdate: 1866
+    gutenberg_agent_id: '57873'
+    url: http://www.gutenberg.org/2009/agents/57873
+  editor:
+    agent_name: Thwaites, Reuben Gold
+    alias: Thwaites, R. G. (Reuben Gold)
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '33780'
+    url: http://www.gutenberg.org/2009/agents/33780
+    wikipedia: https://en.wikipedia.org/wiki/Reuben_Gold_Thwaites
+description: ''
+gutenberg_issued: '2025-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75189'
+language: en
+pgterms:marc904: http://www.archive.org/details/earlywesterntrav08thwa
+pgterms:marc905: 20110930214403thwaites
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: Richard Tonsing, Greg Bergquist, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bThe Arthur H. Clark Company, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Early western travels 1748-1846, v. 8
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Buttrick, Tilly, 1783-1859 -- Travel -- West (U.S.)'
+- !lcsh 'Evans, Estwick, 1787-1866 -- Travel -- West (U.S.)'
+- !lcc 'F590.3'
+- GITenberg
+tableOfContents: 'Voyages, travels, and discoveries, by Tilly Buttrick, Jr. -- A pedestrious
+  tour, of four thousand miles, through the western states and territories, during
+  the winter and spring of 1818; interspersed with brief reflections upon a great
+  variety of topics: religious, moral, political, sentimental, &c. &c., by Estwick
+  Evans.'
+title: Buttrick's voyages, 1812-1819; Evans's Pedestrious tour, 1818
+url: http://www.gutenberg.org/ebooks/75189
