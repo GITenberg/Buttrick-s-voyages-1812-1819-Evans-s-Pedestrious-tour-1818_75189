@@ -1,5 +1,8 @@
 _repo: Buttrick-s-voyages-1812-1819-Evans-s-Pedestrious-tour-1818_75189
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75189-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Buttrick, Tilly
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33780
     wikipedia: https://en.wikipedia.org/wiki/Reuben_Gold_Thwaites
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75189#Buttrick-s-voyages-1812-1819-Evans-s-Pedestrious-tour-1818
 gutenberg_issued: '2025-01-23'
 gutenberg_type: Text
 identifiers:
